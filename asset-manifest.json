@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JimmyWallener/react-app/static/css/main.1fec6934.chunk.css",
+    "main.js": "/JimmyWallener/react-app/static/js/main.8cbc6791.chunk.js",
+    "main.js.map": "/JimmyWallener/react-app/static/js/main.8cbc6791.chunk.js.map",
+    "runtime-main.js": "/JimmyWallener/react-app/static/js/runtime-main.943e3405.js",
+    "runtime-main.js.map": "/JimmyWallener/react-app/static/js/runtime-main.943e3405.js.map",
+    "static/js/2.3412947b.chunk.js": "/JimmyWallener/react-app/static/js/2.3412947b.chunk.js",
+    "static/js/2.3412947b.chunk.js.map": "/JimmyWallener/react-app/static/js/2.3412947b.chunk.js.map",
+    "index.html": "/JimmyWallener/react-app/index.html",
+    "precache-manifest.cfbde128710d972b0eb7c21d44d5e37b.js": "/JimmyWallener/react-app/precache-manifest.cfbde128710d972b0eb7c21d44d5e37b.js",
+    "service-worker.js": "/JimmyWallener/react-app/service-worker.js",
+    "static/css/main.1fec6934.chunk.css.map": "/JimmyWallener/react-app/static/css/main.1fec6934.chunk.css.map",
+    "static/js/2.3412947b.chunk.js.LICENSE.txt": "/JimmyWallener/react-app/static/js/2.3412947b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.943e3405.js",
+    "static/js/2.3412947b.chunk.js",
+    "static/css/main.1fec6934.chunk.css",
+    "static/js/main.8cbc6791.chunk.js"
+  ]
+}
